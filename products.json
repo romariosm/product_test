@@ -1,0 +1,123 @@
+[
+    {
+      "name": "Product A",
+      "price": 100,
+      "rating": 4.5,
+      "updated_at": "2022-09-18"
+    },
+    {
+      "name": "Product B",
+      "price": 200,
+      "rating": 4.2,
+      "updated_at": "2023-03-11"
+    },
+    {
+      "name": "Product C",
+      "price": 150,
+      "rating": 3.9,
+      "updated_at": "2022-12-16"
+    },
+    {
+      "name": "Product D",
+      "price": 300,
+      "rating": 4.8,
+      "updated_at": "2023-01-31"
+    },
+    {
+      "name": "Product E",
+      "price": 250,
+      "rating": 4.0,
+      "updated_at": "2022-10-30"
+    },
+    {
+      "name": "Product F",
+      "price": 175,
+      "rating": 4.2,
+      "updated_at": "2022-08-24"
+    },
+    {
+      "name": "Product G",
+      "price": 225,
+      "rating": 3.7,
+      "updated_at": "2023-02-16"
+    },
+    {
+      "name": "Product H",
+      "price": 275,
+      "rating": 4.5,
+      "updated_at": "2022-11-07"
+    },
+    {
+      "name": "Product I",
+      "price": 120,
+      "rating": 3.5,
+      "updated_at": "2022-08-20"
+    },
+    {
+      "name": "Product J",
+      "price": 180,
+      "rating": 4.1,
+      "updated_at": "2023-01-17"
+    },
+    {
+      "name": "Product K",
+      "price": 160,
+      "rating": 3.8,
+      "updated_at": "2022-12-19"
+    },
+    {
+      "name": "Product L",
+      "price": 220,
+      "rating": 4.4,
+      "updated_at": "2023-01-02"
+    },
+    {
+      "name": "Product M",
+      "price": 130,
+      "rating": 3.6,
+      "updated_at": "2022-10-23"
+    },
+    {
+      "name": "Product N",
+      "price": 190,
+      "rating": 4.3,
+      "updated_at": "2023-03-25"
+    },
+    {
+      "name": "Product O",
+      "price": 240,
+      "rating": 3.9,
+      "updated_at": "2022-09-22"
+    },
+    {
+      "name": "Product P",
+      "price": 280,
+      "rating": 4.7,
+      "updated_at": "2022-11-29"
+    },
+    {
+      "name": "Product Q",
+      "price": 170,
+      "rating": 4.2,
+      "updated_at": "2022-08-02"
+    },
+    {
+      "name": "Product R",
+      "price": 210,
+      "rating": 4.1,
+      "updated_at": "2022-12-29"
+    }
+    ,
+    {
+      "name": "Product S",
+      "price": 222,
+      "rating": 3.2,
+      "updated_at": "2022-10-02"
+    },
+    {
+      "name": "Product T",
+      "price": 317,
+      "rating": 4.8,
+      "updated_at": "2023-01-29"
+    }
+]
